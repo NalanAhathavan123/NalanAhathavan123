@@ -36,7 +36,6 @@
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/>
  ❤️ &emsp; Love writing code and learning new technologies<br/>
  📧 &emsp; Reach me anytime: nalanahathavan03@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/NalanAhathavanT/NalanAhathavan123/issues)
 </p>
 
 <br/>
